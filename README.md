@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Chevallot
+- prénom : Loréna
+- URL Netlify : https://dapper-meerkat-fa4b1b.netlify.app/
 
 # Travail
 
